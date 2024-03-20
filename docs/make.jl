@@ -10,7 +10,7 @@ makedocs(
     pages=[
         "Home" => "index.md",
         "Theory" => "theory.md",
-    ],
+    ]
 )
 
 # Documenter can also automatically deploy documentation to gh-pages.

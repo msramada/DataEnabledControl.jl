@@ -10,7 +10,7 @@ Documentation for [DataEnabledControl](https://github.com/msramada/DataEnabledCo
 ```
 ## Install
 ```julia-repl
-pkg> add DataEnabledControl
+pkg>add DataEnabledControl
 ```
 
 ## Quick start
