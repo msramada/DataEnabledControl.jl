@@ -3,8 +3,14 @@ using DataEnabledControl
 
 makedocs(
     sitename = "DataEnabledControl",
+    authors= "Mohammad <msramada@eng.ucsd.edu>",
+    sitename= "DataEnabledControl.jl",
     format = Documenter.HTML(),
-    modules = [DataEnabledControl]
+    modules = [DataEnabledControl],
+    pages=[
+        "Home" => "index.md",
+        "Theory" => "theory.md",
+    ],
 )
 
 # Documenter can also automatically deploy documentation to gh-pages.
