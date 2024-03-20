@@ -4,7 +4,6 @@ using DataEnabledControl
 makedocs(
     sitename = "DataEnabledControl",
     authors= "Mohammad <msramada@eng.ucsd.edu>",
-    sitename= "DataEnabledControl",
     format = Documenter.HTML(),
     modules = [DataEnabledControl],
     pages=[
