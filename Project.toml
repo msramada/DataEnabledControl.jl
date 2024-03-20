@@ -1,6 +1,6 @@
 name = "DataEnabledControl"
 uuid = "9bcf8ffd-0f62-4a6a-abff-68770ceb2d22"
-authors = ["Mohammad Ramadan"]
+authors = ["Mohammad Ramadan <msramada@eng.ucsd.edu>"]
 version = "1.0.0-DEV"
 
 [deps]
