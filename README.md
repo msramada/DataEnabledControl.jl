@@ -1,4 +1,4 @@
-# DataEnabledControl
+# DataEnabledControl.jl
 
 [![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://msramada.github.io/DataEnabledControl/stable/)
 [![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://msramada.github.io/DataEnabledControl/dev/)
