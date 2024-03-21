@@ -6,4 +6,4 @@
 
 This package is based on the paper [Data-Enabled Predictive Control: In the Shallows of the DeePC](https://ieeexplore.ieee.org/abstract/document/8795639), which is a behavioral data-driven approach. For more context, the interested reader may consult [A note on persistency of excitation](https://www.sciencedirect.com/science/article/pii/S0167691104001434).
 
-For an example, please check [example.ipynb](https://github.com/msramada/DataEnabledControl/blob/main/docs/example.ipynb) notebook under docs. For more details, please check the documentation.
+For an example, please check [example.ipynb](https://github.com/msramada/DataEnabledControl/blob/main/docs/example.ipynb) notebook under docs. Also, under docs, [Theory_slides.pdf](https://github.com/msramada/DataEnabledControl.jl/blob/main/docs/Theory_slides.pdf) explains the DeePC algorithm in a nutshell.
